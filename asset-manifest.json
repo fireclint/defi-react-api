@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/defi-react-api/static/css/main.70337591.css",
+    "main.js": "/defi-react-api/static/js/main.ade4a11d.js",
+    "static/media/trade.png": "/defi-react-api/static/media/trade.a2c09083fbde76e9cac2.png",
+    "static/media/hero-img.png": "/defi-react-api/static/media/hero-img.66b9eb77caa3ac6d4fe8.png",
+    "index.html": "/defi-react-api/index.html",
+    "main.70337591.css.map": "/defi-react-api/static/css/main.70337591.css.map",
+    "main.ade4a11d.js.map": "/defi-react-api/static/js/main.ade4a11d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70337591.css",
+    "static/js/main.ade4a11d.js"
+  ]
+}
